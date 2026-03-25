@@ -1,0 +1,11 @@
+# Configuration
+build:
+    version: "1.0"
+accounts:
+     message: "Welcome to MyBank account related REST APIs Production"
+     contactDetails:
+        name: "Durgesh"
+        email: "ghl_vivek@hotmail.com"
+     onCallSupport:
+        - 1111111111
+        - 2222222222

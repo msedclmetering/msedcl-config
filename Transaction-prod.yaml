@@ -1,0 +1,12 @@
+# Configuration
+build:
+    version: "1.0"
+transaction:
+     message: "Welcome to MyBank transaction related REST APIs production"
+     contactDetails:
+        name: "Durgesh"
+        email: "durgesh@hotmail.com"
+     onCallSupport:
+        - 1111111111
+        - 2222222222
+

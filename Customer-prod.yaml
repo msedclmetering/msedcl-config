@@ -1,0 +1,12 @@
+# Configuration
+build:
+    version: "1.0"
+customer:
+     message: "Welcome to MyBank customer related REST APIs Dafult Proudaction"
+     contactDetails:
+        name: "Durgesh"
+        email: "durgesh@hotmail.com"
+     onCallSupport:
+        - 1111111111
+        - 2222222222
+

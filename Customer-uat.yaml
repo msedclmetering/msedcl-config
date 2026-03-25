@@ -1,0 +1,12 @@
+# Configuration
+build:
+    version: "1.0"
+customer:
+     message: "Welcome to MyBank customer related REST APIs Dafult UAT"
+     contactDetails:
+        name: "Vinod "
+        email: "vinod@hotmail.com"
+     onCallSupport:
+        - 9876543210
+        - 1234567890
+
