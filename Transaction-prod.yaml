@@ -4,7 +4,7 @@ build:
 transaction:
      message: "Welcome to MyBank transaction related REST APIs production"
      contactDetails:
-        name: "Mahesh patil"
+        name: "Vinod Bankar"
         email: "durgesh@hotmail.com"
      onCallSupport:
         - 1111111111
